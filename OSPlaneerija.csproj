@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+    <PropertyGroup>
+        <OutputType>WinExe</OutputType>
+        <TargetFramework>netcoreapp3.1</TargetFramework>
+        <PublishTrimmed>true</PublishTrimmed>
+        <PublishReadyToRun>true</PublishReadyToRun>
+        <PublishSingleFile>true</PublishSingleFile>
+        <RuntimeIdentifier>win-x64</RuntimeIdentifier>
+        <UseWindowsForms>true</UseWindowsForms>
+        <StartupObject>OSPlaneerija.Program</StartupObject>
+        <ApplicationIcon>icon.ico</ApplicationIcon>
+        <Authors>Anton Slavin</Authors>
+        <Company>Anton Slavin</Company>
+        <Description>Protsessoriaja planeerimise algoritmide töö visualiseerimise simulaator</Description>
+    </PropertyGroup>
+
+</Project>

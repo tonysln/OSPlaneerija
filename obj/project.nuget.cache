@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "q46gc559SFC+D7J6qqHfL6tcybww1nnrhD5JVOYibZwznDcv50BeFjhIo5QoqShhCf35PEHcYU2sLmM8nRWMdQ==",
+  "success": true,
+  "projectFilePath": "C:\\Code\\OSPlaneerija\\OSPlaneerija.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Anton Slavin\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\3.1.13\\microsoft.windowsdesktop.app.runtime.win-x64.3.1.13.nupkg.sha512",
+    "C:\\Users\\Anton Slavin\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\3.1.13\\microsoft.netcore.app.runtime.win-x64.3.1.13.nupkg.sha512",
+    "C:\\Users\\Anton Slavin\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\3.1.13\\microsoft.aspnetcore.app.runtime.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
